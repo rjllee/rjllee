@@ -5,7 +5,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=rjllee&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=rjllee&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-I'm **JL**. I am a **Data** **Scientist**.
+I'm **JL**. an **Data** **Scientist**.
 
 -   :school: National Yunlin University of Science and Technology
 -   :hammer_and_pick: Python / Tensorflow / Spark / ...
