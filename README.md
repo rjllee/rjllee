@@ -1,6 +1,24 @@
 ### Hi there 👋
-[![rjllee's github stats](https://github-readme-stats.vercel.app/api?username=rjllee)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=rjllee&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=rjllee&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+I'm **JL**. I am a **Data** **Scientist**.
+
+-   :school: National Yunlin University of Science and Technology
+-   :hammer_and_pick: Python / Tensorflow / Spark / ...
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/rjllee/rjllee/discussions/new)!
+-   
+-
+---
 <!--
+[![rjllee's github stats](https://github-readme-stats.vercel.app/api?username=rjllee)](https://github.com/anuraghazra/github-readme-stats)
+-   :key: GPG key: [``](https://github.com/ouuan.gpg)
+-   :man: Pronouns: he/him
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
+
 **rjllee/rjllee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
