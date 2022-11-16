@@ -10,7 +10,7 @@ I'm **JL**, a **Data** **Scientist**.
 -   :school: National Yunlin University of Science and Technology
 -   :hammer_and_pick: Python / Tensorflow / Spark / ...
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/rjllee/rjllee/discussions/new)!
--   ⚡ Renewable Energy (Solar、Wind)
+-   ⚡ Renewable Energy (Solar、Wind)、🔌 HEMS
 -   
 -
 
